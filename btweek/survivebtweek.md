@@ -58,11 +58,11 @@ CC BY-SA 3.0
 ### Articles
 * Skinner, B. F. (1984). Selection by consequences. Behavioral and Brain Sciences, 7(04), 477. https://doi.org/10.1017/S0140525X0002673X
 * Skinner, B. F. (1984). The operational analysis of psychological terms. Behavioral and Brain Sciences, 7(04), 547. https://doi.org/10.1017/S0140525X00027187
+
 ## Operant conditioning part 2
 ### Video resources
 ### Memos
-*Reinforcement and extinction schedules (http://s-f-walker.org.uk/pubs/lr/chapter6-lr.html*
-![Reinforcement and extinction schedules (http://s-f-walker.org.uk/pubs/lr/chapter6-lr.html)](images/srandext2.jpg)
+* [Reinforcement and extinction schedules](http://s-f-walker.org.uk/pubs/lr/fig6.1small.jpg)
 * Känslor är relevanta men ej kausala ! Se Operational analysis of psychological terms för mer exempel på hur en kan undvika cirkelresonemang.
 
 ### Articles
