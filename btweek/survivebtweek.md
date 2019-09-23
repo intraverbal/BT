@@ -7,9 +7,6 @@ CC BY-SA 3.0
 ### Video resources
 * [B.F. Skinner - Philosophy of Behaviorism (1988)](https://www.youtube.com/watch?v=NpDmRc8-pyU)
 * [Behavior analysis a natural science of behavior](https://youtu.be/_18FfTZ9_yQ)
-### Articles
-* Catania, A. C. (2013). A natural science of behavior. Review of General Psychology, 17(2), 133–139. https://doi.org/10.1037/a0033026
-* Skinner, B. F. (1984). Behaviorism at 50. Behavioral and Brain Sciences, 7(04), 655. https://doi.org/10.1017/S0140525X00027989
 
 ### Memos
 * …behavior is that part of the functioning of an organism which is engaged in acting upon or having commerce with the outside world (Skinner, 1938, p.6)
@@ -22,6 +19,10 @@ CC BY-SA 3.0
   - Evolutionär (Phylogenetic)
   - Kulturell (Memetic)
   - Operant (Ontogenetic)
+
+### Articles
+* Catania, A. C. (2013). A natural science of behavior. Review of General Psychology, 17(2), 133–139. https://doi.org/10.1037/a0033026
+* Skinner, B. F. (1984). Behaviorism at 50. Behavioral and Brain Sciences, 7(04), 655. https://doi.org/10.1017/S0140525X00027989
 
 ## Respondent conditioning
 ### Video resources
