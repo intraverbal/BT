@@ -3,7 +3,21 @@ Edited 2019-10-14
 
 CC BY-SA 3.0
 
-## A Science of behavior
+## Content
+[A Science of behavior](#A-Science-of-behavior)
+
+
+[Respondent conditioning](#Respondent-conditioning)
+
+[Operant conditioning part 1](#Operant-conditioning-part-1)
+
+[Operant conditioning part 1](#Operant-conditioning-part-2)
+
+[Other resources](#Other-resources)
+
+[References](#References)
+
+## A Science of behavior <a name="A Science of behavior"></a>
 
 ### Video resources
 
@@ -26,7 +40,7 @@ CC BY-SA 3.0
 * Catania, A. C. (2013). A natural science of behavior. Review of General Psychology, 17(2), 133–139. https://doi.org/10.1037/a0033026
 * Skinner, B. F. (1984). Behaviorism at 50. Behavioral and Brain Sciences, 7(04), 655. https://doi.org/10.1017/S0140525X00027989
 
-## Respondent conditioning
+## Respondent conditioning <a name="Respondent conditioning"></a>
 ### Video resources
 * [Difference between classical and operant conditioning](https://youtu.be/H6LEcM0E0io)
 
@@ -52,7 +66,7 @@ CC BY-SA 3.0
 ### Articles
 * Rescorla, R. a. (1988). Pavlovian conditioning. It’s not what you think it is. The American Psychologist, 43(3), 151–160. https://doi.org/10.1037/0003-066X.43.3.151
 
-## Operant conditioning part 1
+## Operant conditioning part 1 <a name="Operant conditioning part 1"></a>
 
 ### Video resources
 * [Difference between classical and operant conditioning](https://youtu.be/H6LEcM0E0io)
@@ -77,7 +91,7 @@ CC BY-SA 3.0
 * Skinner, B. F. (1984). Selection by consequences. Behavioral and Brain Sciences, 7(04), 477. https://doi.org/10.1017/S0140525X0002673X
 * Skinner, B. F. (1984). The operational analysis of psychological terms. Behavioral and Brain Sciences, 7(04), 547. https://doi.org/10.1017/S0140525X00027187
 
-## Operant conditioning part 2
+## Operant conditioning part 2 <a name="Operant conditioning part 2"></a>
 
 ### Video resources
 
@@ -93,7 +107,7 @@ CC BY-SA 3.0
 * Skinner, B. F. (1984). The operational analysis of psychological terms. Behavioral and Brain Sciences, 7(04), 547. https://doi.org/10.1017/S0140525X00027187
 
 
-## Other resources:
+## Other resources <a name="Other resources"></a>
 
 * Online course chapter by Bouton: https://nobaproject.com/modules/conditioning-and-learning
 * BCBA exam preparation apps for android and iphone (there is a range of free and non-free apps).
@@ -103,7 +117,7 @@ CC BY-SA 3.0
 
 
 
-## References:
+## References <a name="References"></a>
 <br>
 
 Bouton, M.E. (2016). Learning and behavior: a contemporary synthesis. (2. ed.) Sunderland, Mass.: Sinauer Associates.
