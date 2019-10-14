@@ -55,8 +55,8 @@ CC BY-SA 3.0
   - O = relevant händelse för organismen
   - OBS = obetingad stimuli, eng. OCS
   - OBR = obetingad Respons, eng. OCR
-  - BS = Betingat stimuli, eng. BS
-  - BR = Betingad respons, eng. BR
+  - BS = Betingat stimuli, eng. CS
+  - BR = Betingad respons, eng. CR
   - BS+ = betingad stimuli som blivit betingad till en händelse
   - BS- = betingat stimuli som blivit betingad till frånvaron av händelse
 * Övergripande beskrivning av respondent betingning: “…conditioning is now described as the learning of relations among events so as to allow the organism to represent its environment” (Rescorla, 1988)
@@ -109,11 +109,21 @@ CC BY-SA 3.0
 
 ## Other resources <a name="Other resources"></a>
 
+* [B.F Skinner foundation](https://www.bfskinner.org)
 * Online course chapter by Bouton: https://nobaproject.com/modules/conditioning-and-learning
 * BCBA exam preparation apps for android and iphone (there is a range of free and non-free apps).
 * Two journals for the same purpose: a science of behavior
   * [Journal of Applied Behavior Analysis](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1938-3703) (focus on applications)
   * [Journal of the Experimental Analysis of Behavior](https://onlinelibrary.wiley.com/journal/19383711) (focus on the foundation of the science)
+* Good books:
+  * Bouton, M.E. (2016). Learning and behavior: a contemporary synthesis. (2. ed.) Sunderland, Mass.: Sinauer Associates.
+  * Catania, A. C. (2013). Learning. Cornwall-on-Hudson, NY: Sloan Pub.
+  * Cooper, J. O., Heron, T. E. ., & Heward, W. L. (2007). Applied behavior analysis (2. ed.). Columbus: Merrill Pub. Co. *(finns en 3'version)*
+  * Skinner, B. F. (1957). Verbal behavior. New York: Appleton-Century-Crofts. (free or donation [Skinner foundation](https://www.bfskinner.org/bookstore-2/))
+  * Skinner, B.F. (1965[1953]). Science and human behavior. New York: Free Press.
+  * Barnes-Holmes, S. C. H. D., & Roche, B. (2001). Relational frame theory: A post-Skinnerian account of human language and cognition. Springer Science & Business Media. *(read verbal behavior first)*
+
+
 
 
 
