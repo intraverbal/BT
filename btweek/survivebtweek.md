@@ -11,7 +11,7 @@ CC BY-SA 3.0
 
 [Operant conditioning part 1](#operant-conditioning-part-1-)
 
-[Operant conditioning part 1](#operant-conditioning-part-2-)
+[Operant conditioning part 2](#operant-conditioning-part-2-)
 
 [Other resources](#other-resources-)
 
