@@ -4,18 +4,18 @@ Edited 2019-10-14
 CC BY-SA 3.0
 
 ## Content
-[A Science of behavior](#A-Science-of-behavior)
+[A Science of behavior](#a-science-of-behavior-)
 
 
-[Respondent conditioning](#Respondent-conditioning)
+[Respondent conditioning](#respondent-conditioning-)
 
-[Operant conditioning part 1](#Operant-conditioning-part-1)
+[Operant conditioning part 1](#operant-conditioning-part-1-)
 
-[Operant conditioning part 1](#Operant-conditioning-part-2)
+[Operant conditioning part 1](#operant-conditioning-part-2-)
 
-[Other resources](#Other-resources)
+[Other resources](#other-resources-)
 
-[References](#References)
+[References](#references-)
 
 ## A Science of behavior <a name="A Science of behavior"></a>
 
