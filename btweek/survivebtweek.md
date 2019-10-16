@@ -11,7 +11,7 @@ CC BY-SA 3.0
 
 [Operant conditioning part 1](#operant-conditioning-part-1-)
 
-[Operant conditioning part 1](#operant-conditioning-part-2-)
+[Operant conditioning part 2](#operant-conditioning-part-2-)
 
 [Other resources](#other-resources-)
 
@@ -53,8 +53,8 @@ CC BY-SA 3.0
 * Förkortningar.
   - R = Respons
   - O = relevant händelse för organismen
-  - OBS = obetingad stimuli, eng. OCS
-  - OBR = obetingad Respons, eng. OCR
+  - OBS = obetingad stimuli, eng. US
+  - OBR = obetingad Respons, eng. UR
   - BS = Betingat stimuli, eng. CS
   - BR = Betingad respons, eng. CR
   - BS+ = betingad stimuli som blivit betingad till en händelse
