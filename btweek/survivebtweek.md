@@ -1,5 +1,5 @@
 # Resources to learn "A Science of Behavior"
-Edited 2020-09-11
+Edited 2020-09-23
 
 CC BY-SA 3.0
 
@@ -11,6 +11,10 @@ CC BY-SA 3.0
 [Operant conditioning part 1](#operant-conditioning-part-1-)
 
 [Operant conditioning part 2](#operant-conditioning-part-2-)
+
+[Applied behavioral analysis](#applied-behavioral-analysis-)
+
+[Förkortningar](#Förkortningar)
 
 [Other resources](#other-resources-)
 
@@ -58,16 +62,7 @@ CC BY-SA 3.0
   - Nyhet/Novelty
   - Intensitet
   - Frekevens
-* Förkortningar.
-  - S = Stimuli
-  - O = relevant händelse för organismen
-  - R = Respons
-  - OBS = obetingad stimuli, eng. US or UCS
-  - OBR = obetingad Respons, eng. UR or UCR
-  - BS = Betingat stimuli, eng. CS
-  - BR = Betingad respons, eng. CR
-  - BS+ = betingad stimuli som blivit betingad till en händelse
-  - BS- = betingat stimuli som blivit betingad till frånvaron av händelse
+
 ![Classical Conditioning memo](images/Classical_Conditioning.png)
 
 ### Articles
@@ -82,27 +77,30 @@ CC BY-SA 3.0
 
 ### Memos
 * Operant betingning
-  - Intuitiv beskrivning: Beteende påverkas av konsekvenserna som följer. En konsekvens kan vara att något följer beteendet (någon svarar när jag säger "hej"). Men det kan också vara att något uteblir (när jag ber om ursäkt blir personen mindre arg).
+  - Intuitiv beskrivning: Beteende påverkas av konsekvenserna som följer. En konsekvens kan vara att något följer beteendet (någon svarar när jag säger "hej"). Men det kan också vara att något "uteblir" (när jag ber om ursäkt blir personen mindre arg).
   - Definition: "…animals behave as if they have learned to associate…responses (Rs) … with biologically significant outcomes (Os)" (Bouton, 2016, p.79)
-* Förkortningar
+* Definitioner
   * Positiv (+) = Addering av stimuli (eng. positive)
   * Negativ (-) = Borttagande av stimuli (eng. negative)
   * R<sup>+</sup> = Stimuli som presenteras på grund utav ett beteende som ökar frekvensen av det beteendet. Stimulit kallas då att vara en förstärkare. (eng. reinforcer)
-  * R<sup>-</sup> = Stimuli som tas bort på grund utav utfört beteende. Om frekvensen av beteende ökar för att stimulit ska utebli är stimulit en försvagare. (eng. punisher)
-  * Förstärkning = Ökad sannolikhet för framtida beteende som leder till stimuli
-  * Försvagning = Minskar sannolikhet för framtida beteende som leder till stimuli
+  * R<sup>-</sup> = Stimuli som tas bort på grund utav utfört beteende. Om frekvensen av beteende ökar för att stimulit ska utebli är stimulit en bestraffare. (eng. punisher)
+  * Förstärkning = Ökad sannolikhet för framtida beteende som leder till stimuli (eng. reinforcement)
+  * Bestraffning = Minskar sannolikhet för framtida beteende som leder till stimuli (eng. punishment)
   * +R<sup>+</sup> = Addering av stimuli (+), stimulit som adderas är en förstärkare (R<sup>+</sup>)
-  * +R<sup>-</sup> = Addering av stimuli (+), stimulit som adderas är en försvagare (R<sup>-</sup>)
+  * +R<sup>-</sup> = Addering av stimuli (+), stimulit som adderas är en bestraffare (R<sup>-</sup>)
   * -R<sup>+</sup> = Borttagande av stimuli (-), stimulit som tas bort är en förstärkare (R<sup>+</sup>)
-  * -R<sup>-</sup> = Borttagande av stimuli (-), stimulit som tas bort är en försvagare (R<sup>-</sup>)
+  * -R<sup>-</sup> = Borttagande av stimuli (-), stimulit som tas bort är en bestraffare (R<sup>-</sup>)
+  * Se kapitel 6 i Beteendets ABC (Ramnerö & Törneke, 2020)
 
 
-|     Typ av kontingent stimuli     | Response ökar sannolikheten av kontingenta stimulit | Respons minskar sannolikheten av kontingenta stimulit |
-|:---------------------------------:|:--------------------------------------:|:----------------------------------------:|
-| Appetativt/belönande/förstärkande | Positiv förstärkning (+R<sup>+</sup>)  | Negativ försvagning (-R<sup>+</sup>)               |
-| Aversivt/skadligt/bestraffande    | Positiv försvagning (+R<sup>-</sup>)              | Negativ förstärkning (-R<sup>-</sup>)                |
+### Vilken förstärkning
+|  | Vad gör beteendet: | Beteende ökar sannolikheten av det kontingenta stimulit | Beteende minskar sannolikheten av det kontingenta stimulit |
+|:-:|:-:|:-:|-|
+| Typ av kontingent stimuli: |  |  |  |
+| Appetativt/belönande/förstärkande |  | Positiv förstärkning (+R<sup>+</sup>) | Negativ bestraffning (-R<sup>+</sup>) |
+| Aversivt/skadligt/bestraffande | | Positiv bestraffning (+R<sup>-</sup>) | Negativ förstärkning (-R<sup>-</sup>) |
 
-*Translated from, Page 266, Table 18.1 in Catania, A. C. (2013). Learning. Cornwall-on-Hudson, NY: Sloan Pub.*
+*Translated and modified from, Page 266, Table 18.1 in Catania, A. C. (2013). Learning. Cornwall-on-Hudson, NY: Sloan Pub.*
 
 
 ### Articles
@@ -121,11 +119,13 @@ CC BY-SA 3.0
 * Förstärkningsscheman (när i tid konsekvensen följer och på vilket sätt) kommer skapa olika frekvens/form av beteenden
 * [Reinforcement and extinction schedules](http://s-f-walker.org.uk/pubs/lr/fig6.1small.jpg), länk till bild
 * Känslor är relevanta men ej kausala ! Se Operational analysis of psychological terms för mer exempel på hur en kan undvika cirkelresonemang.
-* Förkortningar
+* Definitioner
   - VR: Variable ratio. Förstärkningen kommer efter varierande mängd utfört beteende oavsett hur lång tid som gått. Ex. Spel av slump. 
   - VI: Variable interval. Förstärkningen kommer med varierande längd på tidsintervallerna "oavsett" beteende. Ex. email eller sociala medier notifikationer.
   - FR: Fixed ratio. Förstärkningen kommer efter samma mängd utfört beteende oavsett hur lång tid som gått. Ex. Provisionslön baserad på x antal säljningar.
   - FI: Fixed interval. Förstärkningen kommer efter en fix längd tidsintervall emellan "oavsett" beteende. Ex. Månadslön
+  - S<sup>D</sup>: Diskriminativt stimulus. Närvaro av detta stimulus gör att förstärkning för ett visst beteende är sannolikt mer tillgängligt. (e.g. klicka på app när en fått en notifikation)
+  - EO/MO: Etablerade omständigheter, eller motiverande omständigheter. Dessa omständigheter gör att förstärkningen för att visst beteende blir sannolikt mer eller mindre värdesatt (e.g. äta när en är hungrig, respektiva äta när en är helt mätt). 
 
 
 ### Articles
@@ -133,9 +133,51 @@ CC BY-SA 3.0
 * Schlinger, H. D. (2013). A Functional Analysis of Psychological Terms Redux. The Behavior Analyst, 36(2), 255–266.
 * Staddon, J. E. R., & Cerutti, D. T. (2003). Operant Conditioning. Annual Review of Psychology, 54, 115–144. https://doi.org/10.1146/annurev.psych.54.101601.145124
 
+## Applied behavioral analysis
+
+## Video resources
+* [Skinner on Counseling](https://youtu.be/LV1Kh2dNwdo)
+
+### Memos
+* “The external variables of which behavior is a function provide for what may be called a causal or functional analysis. We undertake to predict and control the behavior of the individual organism.” (Skinner 1954, p.34)
+
+
+### Articles 
+* Baer, D. M., Wolf, M. M., & Risley, T. R. (1968). Some current dimensions of applied behavior analysis. Journal of Applied Behavior Analysis, 1(1), 91.
+* [Om undvikande i behandling och grundforskning](https://www.beteendeterapeutiska.org/blogg/nyanser-av-undvikande-lrdomar-frn-grundforskning)
 
 
 
+
+## Förkortningar <a name ="Förkortningar"></a>
+* Stimuli eller liknande
+  - S = Stimuli
+  - SD = Diskriminativt stimuli. 
+  - A = Antecedent. Används ofta på samma sätt som Stimuli, eller SD. 
+  - O = relevant händelse för organismen
+* Betingning
+  - OBS = obetingad stimuli, eng. US or UCS
+  - OBR = obetingad Respons, eng. UR or UCR
+  - BS = Betingat stimuli, eng. CS
+  - BR = Betingad respons, eng. CR
+  - BS+ = betingad stimuli som blivit betingad till en händelse
+  - BS- = betingat stimuli som blivit betingad till frånvaron av 
+* Beteende
+  - R = Respons. Vad organismen gör. 
+  - händelse
+  - B = Beteende. Används på samma sätt som "Respons". 
+* Förstärkningsförkortningar 
+  - C = Konsekvens. Används för att notera hur beteendet (B) förstärks/försvagas.   
+  - +R<sup>+</sup> = Addering av stimuli (+), stimulit som adderas är en förstärkare (R<sup>+</sup>)
+  * +R<sup>-</sup> = Addering av stimuli (+), stimulit som adderas är en bestraffare (R<sup>-</sup>)
+  * -R<sup>+</sup> = Borttagande av stimuli (-), stimulit som tas bort är en förstärkare (R<sup>+</sup>)
+  * -R<sup>-</sup> = Borttagande av stimuli (-), stimulit som tas bort är en bestraffare (R<sup>-</sup>)
+* Förstärkningscheman
+  - VR: Variable ratio. Ex. Spel av slump. 
+  - VI: Variable interval. Ex. email 
+  - FR: Fixed ratio. Ex. Provisionslön
+  - FI: Fixed interval. Ex. Månadslön
+  
 ## Other resources <a name="Other resources"></a>
 
 * Learning resources online:
@@ -165,4 +207,12 @@ CC BY-SA 3.0
 
 Bouton, M.E. (2016). Learning and behavior: a contemporary synthesis. (2. ed.) Sunderland, Mass.: Sinauer Associates.
 
+Ramnerö, J. & Törneke, N. (2020). Beteendets ABC: en introduktion till behavioristisk psykoterapi. (Tredje upplagan). Lund: Studentlitteratur.
+
 Skinner, B. F. (1990[1938]). The behavior of organisms: An experimental analysis. BF Skinner Foundation.
+
+Skinner, B.F. (2014[1953]). Science and human behavior. The B. F. Skinner Foundation.
+
+Skinner, B. F. (1984). Behaviorism at fifty. The Behavioral and Brain Sciences, 140(7), 615–667. https://doi.org/10.1126/science.140.3570.951
+
+
