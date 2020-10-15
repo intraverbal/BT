@@ -150,6 +150,9 @@ CC BY-SA 3.0
 
 
 ## Förkortningar <a name ="Förkortningar"></a>
+
+För förkortningar på engelska m.m. se [glossary](https://bouton2e.sinauer.com/glossary.html) till Bouton 2016
+
 * Stimuli eller liknande
   - S = Stimuli
   - SD = Diskriminativt stimuli. 
