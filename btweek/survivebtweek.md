@@ -187,6 +187,7 @@ För förkortningar på engelska m.m. se [glossary](https://bouton2e.sinauer.com
   * Core concepts: http://www.scienceofbehavior.com/learnprin.php
   * Online course chapter by Bouton: https://nobaproject.com/modules/conditioning-and-learning
   * Courses and presentations on the subject of learning: https://foxylearning.com/resources/
+  * Free book: Principles of Learning and Behavior 2nd: https://opentext.wsu.edu/principles-of-learning-and-behavior/
 
 * [B.F Skinner foundation](https://www.bfskinner.org)
 * Two journals for the same purpose: a science of behavior
